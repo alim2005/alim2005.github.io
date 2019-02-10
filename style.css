@@ -6,9 +6,7 @@
 	margin: 5px 5px 5px 5px;
 	padding: 5px 5px 5px 5px;
 	transition: 1s;
-
-	font-size: 25px;
-
+	
 }
 .backgroun:hover {
 	background-color: black;
@@ -24,11 +22,16 @@ img{
 	text-align: center;
 }
 body{
-	font-family: 'Dancing Script', cursive;
+	font-family: 'Pacifico', cursive;
 }
 h1{
 	text-align: center;	
 	font-family: 'Pacifico', cursive;
 	color: orange;
 	text-shadow: 4px 4px 4px black;
+}
+h4{
+	text-align: center;	
+	font-family: 'Pacifico', cursive;
+	color: #993D00;
 }
