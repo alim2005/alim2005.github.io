@@ -12,7 +12,7 @@ h1{
 	transition: 1s;
 }
 h1:hover{
-	background-color: black;
+	background-color:RED;
 	color: white;
 	border-radius: 100%;
 	font-size: 6em;
@@ -42,5 +42,5 @@ h1{
 h4{
 	text-align: center;	
 	font-family: 'Pacifico', cursive;
-	color: #993D00;
+	color: #BC0909;
 }
